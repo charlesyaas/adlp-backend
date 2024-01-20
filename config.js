@@ -1,8 +1,8 @@
 export default {
 	app: {
 		name: "APLIKASI DATA LULUSAN PAPUA",
-		url: "http://localhost:8060",
-		frontendUrl: "http://localhost:8050",
+		url: "https://adlp-backend-production.up.railway.app/",
+		frontendUrl: "https://adlp-frontend-production.up.railway.app/",
 		secret: "9f35e1f5727bbaa629ba169e59e07847",
 		language: "english",
 		publicDir: "assets",
